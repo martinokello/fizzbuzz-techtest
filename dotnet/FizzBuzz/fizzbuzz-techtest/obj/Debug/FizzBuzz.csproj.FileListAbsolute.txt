@@ -1,0 +1,15 @@
+C:\C#Projects\fizzbuzz-techtest-master\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\C#Projects\fizzbuzz-techtest-master\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\C#Projects\FizzBuzzTestDriven\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\C#Projects\FizzBuzzTechTest\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\C#Projects\FizzBuzzTechTest\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\C#Projects\FizzBuzzTechTest\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\C#Projects\FizzBuzzTechTest\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\C#Projects\FizzBuzzTechTest\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\C#Projects\FizzBuzzTechTest\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
