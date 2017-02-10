@@ -57,7 +57,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FizzBuzz\fizzbuzz-techtest.csproj">
+    <ProjectReference Include="..\fizzbuzz-techtest\fizzbuzz-techtest.csproj">
       <Project>{5a454725-4c96-4c24-ad3a-c01d8b362290}</Project>
       <Name>fizzbuzz-techtest</Name>
     </ProjectReference>

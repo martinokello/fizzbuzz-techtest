@@ -3,3 +3,8 @@ C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
 C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
 C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
 C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\fizzbuzz-techtest\bin\Debug\FizzBuzz.exe.config
+C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\fizzbuzz-techtest\bin\Debug\FizzBuzz.exe
+C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\fizzbuzz-techtest\bin\Debug\FizzBuzz.pdb
+C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\fizzbuzz-techtest\obj\Debug\FizzBuzz.exe
+C:\C#Projects\fizzbuzz-techtest\dotnet\FizzBuzz\fizzbuzz-techtest\obj\Debug\FizzBuzz.pdb

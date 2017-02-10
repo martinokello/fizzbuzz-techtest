@@ -26,9 +26,9 @@ namespace FizzBuzz.FizzBuzzUnitTests
         }
 
         [TestMethod]
-        public void TestFizzBuz_31_Is_Not_Factor_Of_Three()
+        public void TestFizzBuz_11_Is_Not_Factor_Of_Three()
         {
-            var FizzBuzz = new FizzBuzzConcretes.FizzBuzz(31);
+            var FizzBuzz = new FizzBuzzConcretes.FizzBuzz(11);
             var result = FizzBuzz.IsFactorOf(three);
             Assert.IsFalse(result);
         }
@@ -58,9 +58,9 @@ namespace FizzBuzz.FizzBuzzUnitTests
             Assert.IsTrue(result);
         }
         [TestMethod]
-        public void TestFizzBuz_21_Is_Not_A_Factor_Of_Five_And_Three()
+        public void TestFizzBuz_22_Is_Not_A_Factor_Of_Five_And_Three()
         {
-            var FizzBuzz = new FizzBuzzConcretes.FizzBuzz(21);
+            var FizzBuzz = new FizzBuzzConcretes.FizzBuzz(22);
 
             var result = FizzBuzz.IsFactorOf(three,five);
             Assert.IsFalse(result);
