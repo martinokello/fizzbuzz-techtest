@@ -4,13 +4,13 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace FizzBuzz.FizzBuzzUnitTests
 {
     [TestClass]
-    public class UnitTest1
+    public class FizzBuzzTest
     {
-        int three = -1;
-        int five = -1;
+        int three;
+        int five;
 
-        [TestInitialize]
-        void Setup()
+        [TestInitialize()]
+        public void Setup()
         {
             three = 3;
             five = 5;
@@ -19,50 +19,50 @@ namespace FizzBuzz.FizzBuzzUnitTests
         [TestMethod]
         public void TestFizzBuz_36_Is_Factor_Of_Three()
         {
-            var FizzBuzz = new FizzBuzzConcretes.FizzBuzz(36);
+            var fizzBuzz = new FizzBuzzConcretes.FizzBuzz(36);
 
-            var result = FizzBuzz.IsFactorOf(three);
+            var result = fizzBuzz.IsFactorOf(three);
             Assert.IsTrue(result);
         }
 
         [TestMethod]
         public void TestFizzBuz_11_Is_Not_Factor_Of_Three()
         {
-            var FizzBuzz = new FizzBuzzConcretes.FizzBuzz(11);
-            var result = FizzBuzz.IsFactorOf(three);
+            var fizzBuzz = new FizzBuzzConcretes.FizzBuzz(11);
+            var result = fizzBuzz.IsFactorOf(three);
             Assert.IsFalse(result);
         }
 
         [TestMethod]
         public void TestFizzBuz_40_Is_Factor_Of_Five()
         {
-            var FizzBuzz = new FizzBuzzConcretes.FizzBuzz(40);
+            var fizzBuzz = new FizzBuzzConcretes.FizzBuzz(40);
 
-            var result = FizzBuzz.IsFactorOf(five);
+            var result = fizzBuzz.IsFactorOf(five);
             Assert.IsTrue(result);
         }
 
         [TestMethod]
         public void TestFizzBuz_42_Is_Not_Factor_Of_Five()
         {
-            var FizzBuzz = new FizzBuzzConcretes.FizzBuzz(42);
-            var result = FizzBuzz.IsFactorOf(five);
+            var fizzBuzz = new FizzBuzzConcretes.FizzBuzz(42);
+            var result = fizzBuzz.IsFactorOf(five);
             Assert.IsFalse(result);
         }
 
         [TestMethod]
         public void TestFizzBuz_15_Is_A_Factor_Of_Five_And_Three()
         {
-            var FizzBuzz = new FizzBuzzConcretes.FizzBuzz(15);
-            var result = FizzBuzz.IsFactorOf(three,five);
+            var fizzBuzz = new FizzBuzzConcretes.FizzBuzz(15);
+            var result = fizzBuzz.IsFactorOf(three,five);
             Assert.IsTrue(result);
         }
         [TestMethod]
         public void TestFizzBuz_22_Is_Not_A_Factor_Of_Five_And_Three()
         {
-            var FizzBuzz = new FizzBuzzConcretes.FizzBuzz(22);
+            var fizzBuzz = new FizzBuzzConcretes.FizzBuzz(22);
 
-            var result = FizzBuzz.IsFactorOf(three,five);
+            var result = fizzBuzz.IsFactorOf(three,five);
             Assert.IsFalse(result);
         }
     }
